@@ -29,28 +29,29 @@ msgstr ""
 
 #: bauble/plugins/garden/prop_editor.glade:1347
 msgid "# Germinated"
-msgstr ""
+msgstr "발아"
 
 #: bauble/plugins/garden/propagation.py:231
 msgid "# of seedlings"
-msgstr ""
+msgstr "묘목"
 
 #: bauble/plugins/garden/prop_editor.glade:1156
 #: bauble/plugins/garden/propagation.py:215
 msgid "# of seeds"
-msgstr ""
+msgstr "종자"
 
 #: bauble/plugins/garden/prop_editor.glade:1398
 msgid "% Germinated"
-msgstr ""
+msgstr "발아"
 
 #: bauble/plugins/garden/accession.py:691
 msgid "%(1)s plant groups in %(2)s location(s)"
-msgstr ""
+msgstr "% (2) s 위치에있는 % (1) s 플랜트 그룹
+% (2) s wichieissneun % "
 
 #: bauble/plugins/plants/species_model.py:476
 msgid "%(group)s Group"
-msgstr ""
+msgstr "개체군"
 
 #: bauble/plugins/garden/accession.py:181
 msgid ""
@@ -60,7 +61,7 @@ msgstr ""
 
 #: bauble/plugins/garden/accession.py:2557
 msgid "%(quantity)s in %(location)s"
-msgstr ""
+msgstr "% (위치) s의 % (수량)"
 
 #: bauble/btypes.py:85
 msgid "%(type_name)s(%(value)s) not in Enum.values: %(all_values)s"
@@ -74,13 +75,13 @@ msgstr ""
 msgid ""
 "%s is the accepted taxon for your data.\n"
 "Do you want to add it?"
-msgstr ""
+msgstr "추가 하시겠습니까?"
 
 #: bauble/plugins/plants/species_editor.py:168
 msgid ""
 "%s is the closest match for your data.\n"
 "Do you want to accept it?"
-msgstr ""
+msgstr "수락 하시겠습니까?"
 
 #: bauble/pluginmgr.py:631
 msgid "%s.plugin is not an instance of pluginmgr.Plugin"
@@ -119,16 +120,16 @@ msgstr ""
 
 #: bauble/plugins/plants/infoboxes.glade:89
 msgid "<b># of Genera:</b>"
-msgstr ""
+msgstr "속"
 
 #: bauble/plugins/garden/loc_infobox.glade:37
 msgid "<b># of Plants:</b>"
-msgstr ""
+msgstr "식물"
 
 #: bauble/plugins/plants/infoboxes.glade:74
 #: bauble/plugins/plants/infoboxes.glade:313
 msgid "<b># of Taxa:</b>"
-msgstr ""
+msgstr "분류군"
 
 #: bauble/plugins/garden/plant_infobox.glade:149
 msgid "<b>Accession Status:</b>"
@@ -192,150 +193,150 @@ msgstr ""
 
 #: bauble/plugins/plants/infoboxes.glade:728
 msgid "<b>Habit:</b>"
-msgstr ""
+msgstr "습성"
 
 #: bauble/plugins/report/mako/gui.glade:68
 msgid "<b>Include data marked as private</b>"
-msgstr ""
+msgstr "개별데이터를 포함하고 있습니다."
 
 #: bauble/plugins/garden/acc_infobox.glade:367
 msgid "<b>Intended Location 2:</b>"
-msgstr ""
+msgstr "예정지"
 
 #: bauble/plugins/garden/acc_infobox.glade:398
 msgid "<b>Intended Location:</b>"
-msgstr ""
+msgstr "예정지"
 
 #: bauble/plugins/garden/acc_infobox.glade:414
 #: bauble/plugins/plants/infoboxes.glade:743
 msgid "<b>Living Plants:</b>"
-msgstr ""
+msgstr "생존 식물"
 
 #: bauble/plugins/garden/plant_infobox.glade:164
 msgid "<b>Location:</b>"
-msgstr ""
+msgstr "위치"
 
 #: bauble/plugins/plants/infoboxes.glade:1054
 msgid "<b>Locations:</b>"
-msgstr ""
+msgstr "위치"
 
 #: bauble/plugins/garden/plant_infobox.glade:195
 msgid "<b>Memorial:</b>"
-msgstr ""
+msgstr "기념물"
 
 #: bauble/plugins/garden/acc_infobox.glade:569
 msgid "<b>Parent Plant:</b>"
-msgstr ""
+msgstr "모수"
 
 #: bauble/plugins/garden/acc_infobox.glade:105
 #: bauble/plugins/plants/infoboxes.glade:326
 #: bauble/plugins/plants/infoboxes.glade:670
 msgid "<b>Plant Groups:</b>"
-msgstr ""
+msgstr "식물군"
 
 #: bauble/plugins/plants/infoboxes.glade:44
 msgid "<b>Plant Groups</b>"
-msgstr ""
+msgstr "식물군"
 
 #: bauble/plugins/garden/plant_infobox.glade:135
 msgid "<b>Plant Material:</b>"
-msgstr ""
+msgstr "식물재료"
 
 #: bauble/plugins/plants/infoboxes.glade:1037
 msgid "<b>Plants:</b>"
-msgstr ""
+msgstr "식물"
 
 #: bauble/plugins/garden/acc_infobox.glade:306
 msgid "<b>Private:</b>"
-msgstr ""
+msgstr "개인적인"
 
 #: bauble/plugins/garden/acc_infobox.glade:607
 msgid "<b>Propagation:</b>"
-msgstr ""
+msgstr "번식"
 
 #: bauble/plugins/garden/acc_infobox.glade:138
 msgid "<b>Provenance:</b>"
-msgstr ""
+msgstr "기원"
 
 #: bauble/plugins/garden/acc_infobox.glade:231
 msgid "<b>Quantity received:</b>"
-msgstr ""
+msgstr "받은 수량"
 
 #: bauble/plugins/garden/plant_infobox.glade:221
 msgid "<b>Quantity:</b>"
-msgstr ""
+msgstr "수량"
 
 #: bauble/plugins/plants/taxonomy_check.glade:648
 msgid "<b>Review log report</b>"
-msgstr ""
+msgstr "로그보고서 보기"
 
 #: bauble/plugins/garden/prop_editor.glade:947
 msgid "<b>Rooted plants</b>"
-msgstr ""
+msgstr "발근된 식물들"
 
 #: bauble/plugins/garden/prop_editor.glade:662
 msgid "<b>Rooting conditions</b>"
-msgstr ""
+msgstr "발근 상태"
 
 #: bauble/plugins/garden/acc_infobox.glade:518
 msgid "<b>Source's ID:</b>"
-msgstr ""
+msgstr "소스 인식"
 
 #: bauble/plugins/garden/prop_editor.glade:1227
 msgid "<b>Sowing data</b>"
-msgstr ""
+msgstr "파종데이터"
 
 #: bauble/plugins/plants/infoboxes.glade:943
 msgid "<b>Species:</b>"
-msgstr ""
+msgstr "종"
 
 #: bauble/plugins/report/mako/gui.glade:39
 msgid "<b>Template</b>"
-msgstr ""
+msgstr "판형"
 
 #: bauble/plugins/plants/taxonomy_check.glade:526
 msgid "<b>Tick Off</b>"
-msgstr ""
+msgstr "체크하다"
 
 #: bauble/plugins/garden/acc_infobox.glade:246
 msgid "<b>Type of material:</b>"
-msgstr ""
+msgstr "재료의 유형"
 
 #: bauble/plugins/garden/source_detail_infobox.glade:78
 msgid "<b>Type:</b>"
-msgstr ""
+msgstr "유형"
 
 #: bauble/plugins/garden/picture_importer.glade:486
 msgid "<b>commit or rollback</b>"
-msgstr ""
+msgstr "커밋 또는 롤백"
 
 #: bauble/plugins/garden/loc_editor.glade:337
 msgid "<b>danger zone</b>"
-msgstr ""
+msgstr "위험 지역"
 
 #: bauble/plugins/garden/picture_importer.glade:416
 msgid "<b>data revision</b>"
-msgstr ""
+:msgstr "데이터 개정"
 
 #: bauble/plugins/plants/infoboxes.glade:1005
 msgid "<b>in use</b>"
-msgstr ""
+msgstr "사용"
 
 #: bauble/plugins/imex/select_export.glade:496
 msgid "<b>options</b>"
-msgstr ""
+msgstr "옵션"
 
 #: bauble/plugins/garden/picture_importer.glade:297
 msgid "<b>parameter definition</b>"
-msgstr ""
+msgstr "매개 변수 정의"
 
 #: bauble/plugins/plants/infoboxes.glade:992
 msgid "<b>total</b>"
-msgstr ""
+msgstr "합계"
 
 #: bauble/plugins/plants/infoboxes.glade:1594
 msgid "<b>unused</b>"
-msgstr ""
+msgstr "미사용"
 
 #: bauble/plugins/plants/stored_queries.glade:185
 #: bauble/plugins/plants/stored_queries.glade:208
@@ -361,11 +362,11 @@ msgstr ""
 #: bauble/plugins/plants/stored_queries.py:131
 #: bauble/plugins/plants/stored_queries.py:166
 msgid "<empty>"
-msgstr ""
+msgstr "빈 칸"
 
 #: bauble/plugins/garden/plant.py:1277
 msgid "<i>Split as %(plant)s</i>"
-msgstr ""
+msgstr "<i> % (plant) s로 분할 </ i>"
 
 #: bauble/plugins/garden/plant.py:1260
 msgid "<i>Split from %(plant)s</i>"
@@ -385,30 +386,30 @@ msgid ""
 "\n"
 "To add a synonym enter a genus name and select one from the list of "
 "completions.  Then click Add to add it to the list of synonyms."
-msgstr ""
+msgstr "완료. 그런 다음 추가를 클릭하여 동의어 목록에 추가하십시오."
 
 #: bauble/plugins/abcd/__init__.py:391
 msgid "ABCD"
-msgstr ""
+msgstr "ABCD"
 
 #: bauble/plugins/garden/institution.glade:161
 msgid "Abbreviation"
-msgstr ""
+msgstr "약어"
 
 #: bauble/ui.py:524
 msgid "About"
-msgstr ""
+msgstr "약"
 
 #: bauble/plugins/plants/family.py:823 bauble/plugins/plants/genus.py:969
 #: bauble/plugins/plants/species.py:245
 msgid "Accepted name"
-msgstr ""
+msgstr "허용된 이름"
 
 #: bauble/plugins/garden/plant_editor.glade:528
 #: bauble/plugins/garden/acc_editor.glade:903
 #: bauble/plugins/garden/__init__.py:138
 msgid "Accession"
-msgstr ""
+msgstr "억세션"
 
 #: bauble/plugins/garden/acc_editor.glade:32
 msgid "Accession Code Formats"
@@ -416,7 +417,7 @@ msgstr ""
 
 #: bauble/plugins/garden/acc_editor.glade:155
 msgid "Accession Editor"
-msgstr ""
+msgstr "억세션 편집"
 
 #: bauble/plugins/garden/acc_editor.glade:659
 msgid "Accession ID"
@@ -424,27 +425,27 @@ msgstr ""
 
 #: bauble/plugins/garden/accession.py:362
 msgid "Accession not of wild source"
-msgstr ""
+msgstr "야생 출처가 아닌() 억새션"
 
 #: bauble/plugins/garden/accession.py:360
 msgid "Accession of wild source"
-msgstr ""
+msgstr "야생 소스의 억새션"
 
 #: bauble/plugins/garden/acc_editor.glade:2219
 msgid "Accuracy"
-msgstr ""
+msgstr "정확성"
 
 #: bauble/plugins/garden/institution.py:109
 msgid "Activate"
-msgstr ""
+msgstr "활성화"
 
 #: bauble/plugins/report/report.glade:7
 msgid "Activate Formatter Template"
-msgstr ""
+msgstr "포맷터 템플릿 활성화"
 
 #: bauble/plugins/report/report.glade:211
 msgid "Activated Templates"
-msgstr ""
+msgstr "활성화된 템플릿"
 
 #: bauble/plugins/garden/plant_editor.glade:437
 #: bauble/plugins/garden/plant_editor.glade:1247
@@ -453,15 +454,15 @@ msgstr ""
 #: bauble/plugins/garden/acc_editor.glade:1117
 #: bauble/plugins/garden/acc_editor.glade:3380
 msgid "Add"
-msgstr ""
+msgstr "추가"
 
 #: bauble/plugins/plants/species_editor.glade:54
 msgid "Add Accessions"
-msgstr ""
+msgstr "억세션 추가"
 
 #: bauble/plugins/plants/family_editor.glade:300
 msgid "Add Genera"
-msgstr ""
+msgstr "속 추가"
 
 #: bauble/plugins/plants/genus_editor.glade:360
 msgid "Add Species"
@@ -3132,28 +3133,28 @@ msgstr ""
 
 #: bauble/plugins/garden/acc_editor.glade:2734
 msgid "Voucher of Accession"
-msgstr ""
+msgstr "가입 바우처"
 
 #: bauble/plugins/garden/acc_editor.glade:2868
 msgid "Voucher of parent material"
-msgstr ""
+msgstr "모수자료의 바우처"
 
 #: bauble/plugins/garden/acc_editor.glade:2938
 #: bauble/plugins/garden/accession.py:2724
 msgid "Vouchers"
-msgstr ""
+msgstr "바우처"
 
 #: bauble/plugins/plants/species_model.py:219
 msgid "Vulnerable (VU)"
-msgstr ""
+msgstr "취약성"
 
 #: bauble/plugins/garden/acc_editor.glade:2264
 msgid "West"
-msgstr ""
+msgstr "서향"
 
 #: bauble/plugins/garden/accession.py:382
 msgid "Wild native"
-msgstr ""
+msgstr "토착"
 
 #: bauble/plugins/garden/accession.py:384
 msgid "Wild non-native"
