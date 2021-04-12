@@ -119,7 +119,7 @@ msgstr ""
 
 #: bauble/plugins/plants/infoboxes.glade:89
 msgid "<b># of Genera:</b>"
-msgstr ""
+msgstr "속"
 
 #: bauble/plugins/garden/loc_infobox.glade:37
 msgid "<b># of Plants:</b>"
@@ -136,7 +136,7 @@ msgstr ""
 
 #: bauble/plugins/plants/infoboxes.glade:1020
 msgid "<b>Accessions:</b>"
-msgstr ""
+msgstr "억세션"
 
 #: bauble/plugins/plants/infoboxes.glade:713
 msgid "<b>Awards:</b>"
@@ -144,106 +144,106 @@ msgstr ""
 
 #: bauble/plugins/plants/infoboxes.glade:698
 msgid "<b>CITES:</b>"
-msgstr ""
+msgstr "사이테스"
 
 #: bauble/plugins/garden/prop_editor.glade:745
 msgid "<b>Chemical treatment</b>"
-msgstr ""
+msgstr "화학처리"
 
 #: bauble/plugins/garden/acc_infobox.glade:505
 msgid "<b>Contact:</b>"
-msgstr ""
+msgstr "연결"
 
 #: bauble/plugins/garden/prop_editor.glade:441
 msgid "<b>Cutting treatment</b>"
-msgstr ""
+msgstr "삽목처리"
 
 #: bauble/plugins/garden/acc_infobox.glade:169
 msgid "<b>Date accessioned:</b>"
-msgstr ""
+msgstr "억세션부여일"
 
 #: bauble/plugins/garden/acc_infobox.glade:184
 msgid "<b>Date received:</b>"
-msgstr ""
+msgstr "도입일"
 
 #: bauble/plugins/garden/source_detail_infobox.glade:92
 msgid "<b>Description:</b>"
-msgstr ""
+msgstr "기술"
 
 #: bauble/plugins/plants/infoboxes.glade:834
 msgid "<b>Distribution for label:</b>"
-msgstr ""
+msgstr "라벨분포"
 
 #: bauble/plugins/plants/infoboxes.glade:800
 msgid "<b>Distribution:</b>"
-msgstr ""
+msgstr "분포"
 
 #: bauble/plugins/plants/infoboxes.glade:977
 msgid "<b>Families:</b>"
-msgstr ""
+msgstr "과"
 
 #: bauble/plugins/plants/infoboxes.glade:960
 msgid "<b>Genera:</b>"
-msgstr ""
+msgstr "속"
 
 #: bauble/plugins/garden/prop_editor.glade:1442
 msgid "<b>Germination data</b>"
-msgstr ""
+msgstr "번식자료"
 
 #: bauble/plugins/plants/infoboxes.glade:728
 msgid "<b>Habit:</b>"
-msgstr ""
+msgstr "습성"
 
 #: bauble/plugins/report/mako/gui.glade:68
 msgid "<b>Include data marked as private</b>"
-msgstr ""
+msgstr "개인식별데이터포함"
 
 #: bauble/plugins/garden/acc_infobox.glade:367
 msgid "<b>Intended Location 2:</b>"
-msgstr ""
+msgstr "예정지2"
 
 #: bauble/plugins/garden/acc_infobox.glade:398
 msgid "<b>Intended Location:</b>"
-msgstr ""
+msgstr "예정지"
 
 #: bauble/plugins/garden/acc_infobox.glade:414
 #: bauble/plugins/plants/infoboxes.glade:743
 msgid "<b>Living Plants:</b>"
-msgstr ""
+msgstr "살아있는 식물"
 
 #: bauble/plugins/garden/plant_infobox.glade:164
 msgid "<b>Location:</b>"
-msgstr ""
+msgstr "위치"
 
 #: bauble/plugins/plants/infoboxes.glade:1054
 msgid "<b>Locations:</b>"
-msgstr ""
+msgstr "위치"
 
 #: bauble/plugins/garden/plant_infobox.glade:195
 msgid "<b>Memorial:</b>"
-msgstr ""
+msgstr "기억"
 
 #: bauble/plugins/garden/acc_infobox.glade:569
 msgid "<b>Parent Plant:</b>"
-msgstr ""
+msgstr "모수"
 
 #: bauble/plugins/garden/acc_infobox.glade:105
 #: bauble/plugins/plants/infoboxes.glade:326
 #: bauble/plugins/plants/infoboxes.glade:670
 msgid "<b>Plant Groups:</b>"
-msgstr ""
+msgstr "개체군"
 
 #: bauble/plugins/plants/infoboxes.glade:44
 msgid "<b>Plant Groups</b>"
-msgstr ""
+msgstr "개체군"
 
 #: bauble/plugins/garden/plant_infobox.glade:135
 msgid "<b>Plant Material:</b>"
-msgstr ""
+msgstr "식물재료"
 
 #: bauble/plugins/plants/infoboxes.glade:1037
 msgid "<b>Plants:</b>"
-msgstr ""
+msgstr "식물"
 
 #: bauble/plugins/garden/acc_infobox.glade:306
 msgid "<b>Private:</b>"
@@ -251,43 +251,43 @@ msgstr ""
 
 #: bauble/plugins/garden/acc_infobox.glade:607
 msgid "<b>Propagation:</b>"
-msgstr ""
+msgstr "번식"
 
 #: bauble/plugins/garden/acc_infobox.glade:138
 msgid "<b>Provenance:</b>"
-msgstr ""
+msgstr "기원"
 
 #: bauble/plugins/garden/acc_infobox.glade:231
 msgid "<b>Quantity received:</b>"
-msgstr ""
+msgstr "도입수량"
 
 #: bauble/plugins/garden/plant_infobox.glade:221
 msgid "<b>Quantity:</b>"
-msgstr ""
+msgstr "수량"
 
 #: bauble/plugins/plants/taxonomy_check.glade:648
 msgid "<b>Review log report</b>"
-msgstr ""
+msgstr "로그보고서 보기"
 
 #: bauble/plugins/garden/prop_editor.glade:947
 msgid "<b>Rooted plants</b>"
-msgstr ""
+msgstr "근삽"
 
 #: bauble/plugins/garden/prop_editor.glade:662
 msgid "<b>Rooting conditions</b>"
-msgstr ""
+msgstr "발근 상태"
 
 #: bauble/plugins/garden/acc_infobox.glade:518
 msgid "<b>Source's ID:</b>"
-msgstr ""
+msgstr "id소스"
 
 #: bauble/plugins/garden/prop_editor.glade:1227
 msgid "<b>Sowing data</b>"
-msgstr ""
+msgstr "파종일"
 
 #: bauble/plugins/plants/infoboxes.glade:943
 msgid "<b>Species:</b>"
-msgstr ""
+msgstr "종"
 
 #: bauble/plugins/report/mako/gui.glade:39
 msgid "<b>Template</b>"
