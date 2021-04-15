@@ -3128,48 +3128,48 @@ msgstr "버전"
 #: bauble/plugins/garden/acc_editor.glade:2708
 #: bauble/plugins/garden/acc_editor.glade:2842
 msgid "Voucher"
-msgstr ""
+msgstr "바우처"
 
 #: bauble/plugins/garden/acc_editor.glade:2734
 msgid "Voucher of Accession"
-msgstr ""
+msgstr "억세션바우처"
 
 #: bauble/plugins/garden/acc_editor.glade:2868
 msgid "Voucher of parent material"
-msgstr ""
+msgstr "모수물질 바우처"
 
 #: bauble/plugins/garden/acc_editor.glade:2938
 #: bauble/plugins/garden/accession.py:2724
 msgid "Vouchers"
-msgstr ""
+msgstr "바우처"
 
 #: bauble/plugins/plants/species_model.py:219
 msgid "Vulnerable (VU)"
-msgstr ""
+msgstr "취약"
 
 #: bauble/plugins/garden/acc_editor.glade:2264
 msgid "West"
-msgstr ""
+msgstr "서쪽"
 
 #: bauble/plugins/garden/accession.py:382
 msgid "Wild native"
-msgstr ""
+msgstr "야생"
 
 #: bauble/plugins/garden/accession.py:384
 msgid "Wild non-native"
-msgstr ""
+msgstr "야생이 아닌 재배"
 
 #: bauble/plugins/garden/acc_editor.glade:1262
 msgid "Wild status"
-msgstr ""
+msgstr "야생상태"
 
 #: bauble/plugins/garden/plant.py:259
 msgid "Winter kill"
-msgstr ""
+msgstr "동사"
 
 #: bauble/ui.py:854
 msgid "Would you like the cancel the current tasks?"
-msgstr ""
+msgstr "현재 업무를 취소하겠습니까?"
 
 #: bauble/__init__.py:368
 msgid ""
@@ -3177,24 +3177,27 @@ msgid ""
 "\n"
 "<i>Warning: If there is already a database at this connection any existing "
 "data will be destroyed!</i>"
-msgstr ""
+msgstr ""현재 연결에서 새 Ghini 데이터베이스를 생성 하시겠습니까? \ n"
+"\엔"
+"<i> 경고 :이 연결에 이미 데이터베이스가있는 경우 기존"
+"데이터가 파괴됩니다! </ i>""
 
 #: bauble/plugins/garden/prop_editor.glade:385
 #: bauble/plugins/garden/propagation.py:185
 msgid "Wounded"
-msgstr ""
+msgstr "상처"
 
 #: bauble/plugins/users/ui.glade:176
 msgid "Write"
-msgstr ""
+msgstr "쓰기"
 
 #: bauble/plugins/imex/xml.py:144
 msgid "XML"
-msgstr ""
+msgstr "xml"
 
 #: bauble/plugins/report/xsl/__init__.py:355
 msgid "XSL"
-msgstr ""
+msgstr "xsl"
 
 #: bauble/plugins/imex/iojson.py:232
 msgid ""
@@ -3210,7 +3213,10 @@ msgid ""
 "plants may take several minutes.  \n"
 "\n"
 "<i>Would you like to continue?</i>"
-msgstr ""
+msgstr "% (nplants) s 식물을 ABCD 형식으로 내보내고 있습니다. 이 많은 내보내기 "
+"식물은 몇 분 정도 걸릴 수 있습니다. \ n"
+"\엔"
+"<i> 계속 하시겠습니까? </ i>"
 
 #: bauble/db.py:431
 msgid ""
@@ -3285,19 +3291,19 @@ msgstr ""
 #: bauble/plugins/garden/accession.py:208 bauble/plugins/garden/location.py:88
 #: bauble/plugins/garden/source.py:70
 msgid "_Add plants"
-msgstr ""
+msgstr "식물추가"
 
 #: bauble/plugins/plants/genus.py:118
 msgid "_Add species"
-msgstr ""
+msgstr "종추가"
 
 #: bauble/ui.py:500
 msgid "_Copy"
-msgstr ""
+msgstr "-복사"
 
 #: bauble/ui.py:498
 msgid "_Cut"
-msgstr ""
+msgstr "-잘라내기"
 
 #: bauble/plugins/garden/accession.py:211 bauble/plugins/garden/location.py:91
 #: bauble/plugins/garden/plant.py:118 bauble/plugins/garden/source.py:73
@@ -3305,7 +3311,7 @@ msgstr ""
 #: bauble/plugins/plants/genus.py:121 bauble/plugins/plants/species.py:123
 #: bauble/plugins/tag/__init__.py:256
 msgid "_Delete"
-msgstr ""
+msgstr "-지우기"
 
 #: bauble/plugins/garden/accession.py:205 bauble/plugins/garden/location.py:85
 #: bauble/plugins/garden/plant.py:110 bauble/plugins/garden/source.py:66
@@ -3313,35 +3319,35 @@ msgstr ""
 #: bauble/plugins/plants/genus.py:115 bauble/plugins/plants/species.py:117
 #: bauble/plugins/tag/__init__.py:253 bauble/ui.py:497
 msgid "_Edit"
-msgstr ""
+msgstr "-편집"
 
 #: bauble/ui.py:490
 msgid "_File"
-msgstr ""
+msgstr "-파일"
 
 #: bauble/ui.py:506
 msgid "_Help"
-msgstr ""
+msgstr "-도움말"
 
 #: bauble/ui.py:504
 msgid "_Insert"
-msgstr ""
+msgstr "-삽입"
 
 #: bauble/ui.py:491
 msgid "_New"
-msgstr ""
+msgstr "-새로만들기"
 
 #: bauble/ui.py:493
 msgid "_Open"
-msgstr ""
+msgstr "-열기"
 
 #: bauble/ui.py:502
 msgid "_Paste"
-msgstr ""
+msgstr "-붙여넣기"
 
 #: bauble/ui.py:495
 msgid "_Quit"
-msgstr ""
+msgstr "-나가기"
 
 #: bauble/plugins/garden/plant.py:114
 msgid "_Split"
@@ -3349,7 +3355,7 @@ msgstr ""
 
 #: bauble/ui.py:505
 msgid "_Tools"
-msgstr ""
+msgstr "-도구"
 
 #: bauble/plugins/garden/source.py:498
 msgid "_parse_lat_lon() -- incorrect format: %s"
@@ -3799,15 +3805,15 @@ msgstr ""
 
 #: bauble/plugins/plants/__init__.py:394
 msgid "your user preferences"
-msgstr ""
+msgstr "사용자 선호도"
 
 #: bauble/plugins/garden/propagation.py:296
 msgid "°C"
-msgstr ""
+msgstr "섭씨"
 
 #: bauble/plugins/garden/propagation.py:295
 msgid "°F"
-msgstr ""
+msgstr "화씨"
 
 #: bauble/plugins/report/flat_export.glade:287
 msgid "→"
