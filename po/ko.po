@@ -29,7 +29,7 @@ msgstr ""
 
 #: bauble/btypes.py:89
 msgid "\"%(value)s\" not in Enum.values: %(all_values)s"
-msgstr ""
+msgstr "\ "% (value) s \"가 Enum.values에 없습니다 : % (all_values) s"
 
 #: bauble/plugins/garden/prop_editor.glade:1343
 msgid "# Germinated"
