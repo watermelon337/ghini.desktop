@@ -2776,61 +2776,69 @@ msgstr "이 종에 가입 한 날짜입니다."
 
 #: bauble/plugins/garden/accession.py:880
 msgid "The date this species was received."
-msgstr ""
+msgstr "이 종을받은 날짜."
 
 #: bauble/plugins/plants/species_editor.py:1093
 msgid ""
 "The distribution string that will be used on the label.  If this entry is "
 "blank then the species distribution will be used"
-msgstr ""
+msgstr "레이블에 사용될 배포 문자열입니다. 이 항목이 "
+"비어 있으면 종 분포가 사용됩니다."
 
 #: bauble/plugins/garden/institution.py:506
 msgid "The email address of the institution."
-msgstr ""
+msgstr "기관의 이메일 주소입니다."
 
 #: bauble/plugins/garden/institution.py:503
 msgid ""
 "The email address or phone number of the person to contact for technical "
 "information related to the institution."
-msgstr ""
+msgstr "기술 담당자의 이메일 주소 또는 전화 번호 "
+"기관 관련 정보."
 
 #: bauble/plugins/plants/genus.py:518
 msgid ""
 "The family <b>%(synonym)s</b> is a synonym of <b>%(family)s</b>.\n"
 "\n"
 "Would you like to choose <b>%(family)s</b> instead?"
-msgstr ""
+msgstr "<b> % (synonym) s </ b> 계열은 <b> % (family) s </ b>의 동의어입니다. \ n "
+"\엔"
+"대신 <b> % (가족) </ b>을 선택 하시겠습니까?"
 
 #: bauble/plugins/plants/family.py:79
 msgid ""
 "The family <i>%(1)s</i> has %(2)s genera.\n"
 "\n"
-msgstr ""
+msgstr "<i> % (1) s </ i> 가족에는 % (2) s 속이 있습니다. \ n "
+"\n"
 
 #: bauble/plugins/plants/genus.py:413
 msgid "The family name"
-msgstr ""
+msgstr "과명"
 
 #: bauble/plugins/plants/family.py:349
 msgid "The family name."
-msgstr ""
+msgstr "과명"
 
 #: bauble/plugins/plants/family.py:350
 msgid ""
 "The family qualifier helps to remove ambiguities that might be associated "
 "with this family name."
-msgstr ""
+msgstr "제품군 한정자는 "와 관련 될 수있는 모호성을 제거하는 데 도움이됩니다.
+"이 성으로."
 
 #: bauble/plugins/garden/institution.py:508
 msgid "The fax number of the institution."
-msgstr ""
+msgstr "기관의 팩스 번호입니다."
 
 #: bauble/pluginmgr.py:217
 msgid ""
 "The following plugins are in the registry but could not be loaded:\n"
 "\n"
 "%(plugins)s"
-msgstr ""
+msgstr "다음 플러그인이 레지스트리에 있지만로드 할 수 없습니다. \ n "
+"\n"
+"% (플러그인) s"
 
 #: bauble/pluginmgr.py:198
 msgid ""
@@ -2839,201 +2847,230 @@ msgid ""
 "<b>%s</b>\n"
 "\n"
 "<i>Would you like to install them now?</i>"
-msgstr ""
+msgstr "플러그인 레지스트리에서 다음 플러그인을 찾을 수 없습니다. \ n
+"\엔"
+"<b> % s </ b> \ n"
+"\n"
+"<i> 지금 설치 하시겠습니까? </ i>"
 
 #: bauble/plugins/garden/institution.py:496
 msgid "The full name of the institution."
-msgstr ""
+msgstr "기관의 전체 이름입니다."
 
 #: bauble/plugins/plants/species_editor.py:286
 msgid ""
 "The genus <b>%(synonym)s</b> is a synonym of <b>%(genus)s</b>.\n"
 "\n"
 "Would you like to choose <b>%(genus)s</b> instead?"
-msgstr ""
+msgstr "<b> % (synonym) s </ b> 속은 <b> % (genus) s </ b>의 동의어입니다. \ n "
+"\n"
+"대신 <b> % (속) </ b>을 선택 하시겠습니까?"
 
 #: bauble/plugins/plants/genus.py:94
 msgid ""
-"The genus <i>%(1)s</i> has %(2)s species.\n"
+"<b> % (synonym) s </ b> 속은 <b> % (genus) s </ b>의 동의어입니다. \ n "
 "\n"
+"대신 <b> % (속) </ b>을 선택 하시겠습니까?"
 msgstr ""
 
 #: bauble/plugins/plants/genus.py:414
 msgid "The genus name"
-msgstr ""
+msgstr "속명"
 
 #: bauble/plugins/plants/species_editor.py:1096
 msgid "The habit of this species"
-msgstr ""
+msgstr "이 종의 습관"
 
 #: bauble/plugins/garden/accession.py:885
 #: bauble/plugins/garden/accession.py:887
 msgid "The intended location for plant material being accessioned."
-msgstr ""
+msgstr "접근 할 식물 재료의 의도 된 위치."
 
 #: bauble/plugins/garden/institution.py:499
 msgid "The intitution code should be unique among all institions."
-msgstr ""
+msgstr "intitution 코드는 모든 instition에서 고유해야합니다."
 
 #: bauble/plugins/garden/institution.py:510
 msgid "The latitude of the geographic centre of the garden."
-msgstr ""
+msgstr "정원 지리적 중심의 위도입니다."
 
 #: bauble/plugins/garden/plant.py:542
 msgid "The location of the planting in your collection."
-msgstr ""
+msgstr "컬렉션의 심기 위치입니다."
 
 #: bauble/plugins/garden/institution.py:511
 msgid "The longitude of the geographic centre of the garden."
-msgstr ""
+msgstr "정원 지리적 중심의 경도입니다."
 
 #: bauble/plugins/garden/institution.py:509
 msgid "The mailing address of the institition."
-msgstr ""
+msgstr "기관의 우편 주소."
 
 #: bauble/plugins/garden/institution.py:501
 msgid ""
 "The name of the person to contact for information related to the institution."
-msgstr ""
+msgstr "기관 관련 정보를 문의 할 사람의 이름입니다."
 
 #: bauble/plugins/garden/accession.py:225
 msgid ""
 "The name of the plant determined by taxonomist engaged in systematic "
 "revision of the group."
-msgstr ""
+msgstr "체계적으로 종사하는 분류 학자에 의해 결정된 식물의 이름 "
+"그룹의 개정."
 
 #: bauble/plugins/garden/accession.py:222
 msgid ""
 "The name of the record determined by a taxonomist or by other competent "
 "persons using herbarium and/or library and/or documented living material."
-msgstr ""
+msgstr "분류 학자 또는 다른 유능한 "이 결정한 기록의 이름
+"식물 표본 상자 및 / 또는 도서관 및 / 또는 문서화 된 생활 자료를 사용하는 사람."
 
 #: bauble/plugins/garden/accession.py:220
 msgid ""
 "The name of the record determined by comparison with other named plants."
-msgstr ""
+msgstr "다른 명명 된 식물과 비교하여 결정된 레코드 이름입니다."
 
 #: bauble/plugins/garden/accession.py:219
 msgid "The name of the record has not been checked by any authority."
-msgstr ""
+msgstr "기록의 이름은 어떤 기관에서도 확인되지 않았습니다."
 
 #: bauble/plugins/plants/genus.py:415
 msgid "The name or abbreviation of the author that published this genus"
-msgstr ""
+msgstr "이 속을 출판 한 저자의 이름 또는 약어 ""
 
 #: bauble/plugins/garden/location.py:204
 msgid "The name that you will use later to refer to this location."
-msgstr ""
+msgstr "나중에이 위치를 참조하기 위해 사용할 이름입니다."
 
 #: bauble/plugins/garden/accession.py:891
 msgid ""
 "The origin or source of this accession.\n"
 "\n"
 "Possible values: %s"
-msgstr ""
+msgstr "이 액세스의 출처 또는 출처입니다. \ n "
+"\n"
+"가능한 값 : % s"
 
 #: bauble/plugins/garden/accession.py:877
 msgid "The part of the taxon name that the id qualifier refers to."
-msgstr ""
+msgstr "ID 규정자가 참조하는 분류군 이름 부분입니다."
 
 #: bauble/plugins/users/__init__.py:645
 msgid "The password for user <b>%s</b> has not been changed."
-msgstr ""
+msgstr "사용자 <b> % s </ b>의 비밀번호가 변경되지 않았습니다."
 
 #: bauble/plugins/users/__init__.py:651
 msgid ""
 "The passwords do not match.  The password for user <b>%s</b> has not been "
 "changed."
-msgstr ""
+msgstr "암호가 일치하지 않습니다. 사용자 <b> % s </ b>의 암호는 "가 아닙니다.
+"변경되었습니다."
 
 #: bauble/plugins/garden/plant.py:535
 msgid ""
 "The planting code must be a unique code for the accession.  You may also use "
 "ranges like 1,2,7 or 1-3 to create multiple plants."
-msgstr ""
+msgstr "심기 코드는 수탁에 대한 고유 코드 여야합니다. "
+"1, 2, 7 또는 1-3과 같이 여러 식물을 만들 수 있습니다."
 
 #: bauble/pluginmgr.py:233
 msgid ""
 "The plugins contain a dependency loop. This can happen if two plugins "
 "directly or indirectly rely on each other"
-msgstr ""
+msgstr "플러그인에는 종속성 루프가 포함되어 있습니다. 두 개의 플러그인이 "
+"직간접 적으로 서로에게 의존"
 
 #: bauble/pluginmgr.py:319
 msgid ""
 "The plugins contain a dependency loop. This means that two plugins (possibly "
 "indirectly) rely on each other"
-msgstr ""
+msgstr "플러그인에는 종속성 루프가 포함되어 있습니다. 이것은 두 개의 플러그인 ( "
+"간접적으로) 서로 의존"
 
 #: bauble/plugins/garden/accession.py:227
 msgid ""
 "The record is part of type gathering or propagated from type material by "
 "asexual methods."
-msgstr ""
+msgstr "레코드가 유형 수집의 일부이거나 "에 의해 유형 자료에서 전파되었습니다.
+"무 성애 방법."
 
 #: bauble/plugins/garden/accession.py:1882
 msgid ""
 "The species <b>%(synonym)s</b> is a synonym of <b>%(species)s</b>.\n"
 "\n"
 "Would you like to choose <b>%(species)s</b> instead?"
-msgstr ""
+msgstr "<b> % (synonym) s </ b> 종은 <b> % (species) s </ b>의 동의어입니다. \ n "
+"\n"
+"대신 <b> % (species) s </ b>를 선택 하시겠습니까?"
 
 #: bauble/plugins/plants/species.py:84
 msgid ""
 "The species <i>%(1)s</i> has %(2)s accessions.\n"
 "\n"
-msgstr ""
+msgstr "<i> % (1) s </ i> 종은 % (2) s 접근권을 가지고 있습니다. \ n "
+"\n"
 
 #: bauble/plugins/garden/accession.py:870
 msgid ""
 "The species must be selected from the list of completions. To add a species "
 "use the Species editor."
-msgstr ""
+msgstr "종은 완성 목록에서 선택해야합니다. 종을 추가하려면 "
+"종 편집기를 사용하십시오."
 
 #: bauble/plugins/garden/institution.py:497
 msgid "The standard abbreviation of the institution."
-msgstr ""
+msgstr "기관의 표준 약어입니다."
 
 #: bauble/plugins/garden/institution.py:507
 msgid "The telephone number of the institution."
-msgstr ""
+msgstr "기관의 전화 번호입니다."
 
 #: bauble/plugins/garden/accession.py:881
 msgid "The type of the accessioned material."
-msgstr ""
+msgstr "액세스 된 자료의 유형입니다."
 
 #: bauble/plugins/garden/plant.py:544
 msgid ""
 "The type of the plant material.\n"
 "\n"
 "Possible values: %s"
-msgstr ""
+msgstr "식물 재료의 유형입니다. \ n "
+"\n"
+"가능한 값 : % s"
 
 #: bauble/plugins/garden/accession.py:894
 msgid ""
 "The wild status is used to clarify the provenance.\n"
 "\n"
 "Possible values: %s"
-msgstr ""
+msgstr "야생 상태는 출처를 명확히하는 데 사용됩니다. \ n "
+"\n"
+"가능한 값 : % s"
 
 #: bauble/plugins/report/__init__.py:735
 msgid ""
 "There are no %s in the search results.\n"
 "Please try another search."
-msgstr ""
+msgstr "검색 결과에 % s이 (가) 없습니다. \ n
+"다른 검색을 시도하십시오."
 
 #: bauble/plugins/plants/species_editor.py:471
 msgid ""
 "This binomial name is already in your collection, as %s.\n"
 "\n"
 "Are you sure you want to insert it again?"
-msgstr ""
+msgstr "이 이항 이름은 % s (으)로 이미 컬렉션에 있습니다. \ n
+"\n"
+"다시 삽입 하시겠습니까?"
 
 #: bauble/plugins/garden/plant.py:721
 msgid ""
 "This plant is marked with quantity zero. \n"
 "In practice, it is not any more part of the collection. \n"
 "Are you sure you want to edit it anyway?"
-msgstr ""
+msgstr "이 식물은 수량 0으로 표시됩니다. \n"
+"실제로는 더 이상 컬렉션의 일부가 아닙니다. \ n"
+"그래도 수정 하시겠습니까?"
 
 #: bauble/plugins/garden/propagation.py:480
 msgid ""
@@ -3041,7 +3078,10 @@ msgid ""
 "It can already be accessioned.\n"
 "\n"
 "Are you sure you want to remove it?"
-msgstr ""
+msgstr "이 번식으로 % s 식물이 생산되었습니다. \ n "
+"이미 액세스 할 수 있습니다. \ n"
+"\n"
+"정말 삭제 하시겠습니까?"
 
 #: bauble/plugins/garden/propagation.py:494
 msgid ""
@@ -3049,91 +3089,101 @@ msgid ""
 "by %s accessions.\n"
 "\n"
 "You cannot remove it."
-msgstr ""
+msgstr "이 전파를 참조합니다. \ n
+"% s 액세스. \ n"
+"\n"
+"당신은 그것을 제거 할 수 없습니다."
 
 #: bauble/plugins/garden/propagation.py:490
 msgid ""
-"This propagation is referred to\n"
-"by accession %s.\n"
-"\n"
-"You cannot remove it."
+"이 전파를 참조합니다. \ n
+"% s 액세스. \ n"
+"\엔"
+"당신은 그것을 제거 할 수 없습니다."
 msgstr ""
 
 #: bauble/view.py:888
 msgid ""
 "This query returned %s results.  It may take a long time to get all the "
 "data. Are you sure you want to continue?"
-msgstr ""
+msgstr "이 쿼리는 % s 개의 결과를 반환했습니다. 모든 "를 가져 오는 데 시간이 오래 걸릴 수 있습니다.
+"데이터. 계속 하시겠습니까?"
 
 #: bauble/plugins/plants/species_editor.py:919
 msgid ""
 "This species has vernacular names but none of them are selected as the "
 "default. The first vernacular name in the list has been automatically "
 "selected."
-msgstr ""
+msgstr "이 종은 고유 한 이름을 가지고 있지만 그들 중 어느 것도 "
+"기본값. 목록의 첫 번째 언어 이름은 자동으로"
+"선택된."
 
 #: bauble/ui.py:837
 msgid ""
 "This version installed on: %s\n"
 "Latest published version: %s\n"
 "Publication date: %s"
-msgstr ""
+msgstr "이 버전이 설치된 위치 : % s \ n
+"최신 게시 버전 : % s \ n"
+"발행일 : % s"
 
 #: bauble/db.py:44
 msgid ""
 "This version of Ghini requires SQLAlchemy 0.6 or greater. You are using "
 "version %s. Please download and install a newer version of SQLAlchemy from "
 "http://www.sqlalchemy.org or contact your system administrator."
-msgstr ""
+msgstr "이 Ghini 버전에는 SQLAlchemy 0.6 이상이 필요합니다. "
+"버전 % s."에서 최신 버전의 SQLAlchemy를 다운로드하여 설치하십시오.
+"http://www.sqlalchemy.org 또는 시스템 관리자에게 문의하십시오."
 
 #: bauble/connmgr.py:618
 msgid "Thumbnails name occupied by non directory."
-msgstr ""
+msgstr "디렉토리가 아닌 썸네일 이름입니다."
 
 #: bauble/bauble.glade:40
 msgid "Timestamp"
-msgstr ""
+msgstr "타임 스탬프"
 
 #: bauble/plugins/garden/prop_editor.glade:359
 #: bauble/plugins/garden/propagation.py:175
 msgid "Tip"
-msgstr ""
+msgstr "팁"
 
 #: bauble/plugins/garden/plant.py:329
 msgid "Tissue Culture"
-msgstr ""
+msgstr "조직배양"
 
 #: bauble/utils/__init__.py:831
 msgid "Today's date"
-msgstr ""
+msgstr "오늘날짜"
 
 #: bauble/plugins/garden/plant.py:267
 msgid "Transfered to Totem Field"
-msgstr ""
+msgstr "토템 필드로 이관"
 
 #: bauble/plugins/garden/plant.py:263
 msgid "Transferred to another acc.no."
-msgstr ""
+msgstr "다른 acc.no."
 
 #: bauble/plugins/garden/accession.py:443
 msgid "Tuber"
-msgstr ""
+msgstr "튜버"
 
 #: bauble/plugins/garden/contact.glade:112
 msgid "Type"
-msgstr ""
+msgstr "유형"
 
 #: bauble/plugins/garden/acc_editor.glade:563
 msgid "Type of material"
-msgstr ""
+msgstr "물질유형"
 
 #: bauble/connmgr.glade:202 bauble/view.py:178
 msgid "Type:"
-msgstr ""
+msgstr "유형:"
 
 #: bauble/plugins/garden/source.py:130
 msgid "University Department"
-msgstr ""
+msgstr "대학학과"
 
 #: bauble/plugins/garden/accession.py:365
 #: bauble/plugins/garden/accession.py:397
@@ -3141,11 +3191,11 @@ msgstr ""
 #: bauble/plugins/garden/accession.py:416
 #: bauble/plugins/garden/accession.py:444 bauble/plugins/garden/source.py:136
 msgid "Unknown"
-msgstr ""
+msgstr "모름"
 
 #: bauble/plugins/imex/csv_.py:239
 msgid "Unknown Error."
-msgstr ""
+msgstr "알수 없는 에러"
 
 #: bauble/plugins/garden/accession.py:2377
 #: bauble/plugins/garden/location.py:417 bauble/plugins/garden/plant.py:1049
@@ -3157,7 +3207,10 @@ msgid ""
 "information.\n"
 "\n"
 "%s"
-msgstr ""
+msgstr "변경 사항을 커밋 할 때 알 수없는 오류입니다. 자세한 내용은 "
+"정보. \ n"
+"\n"
+"%s"
 
 #: bauble/search.py:531
 msgid "Unknown search domain: %s"
@@ -3170,32 +3223,32 @@ msgstr ""
 #: bauble/plugins/garden/accession.py:445
 #: bauble/plugins/garden/propagation.py:53
 msgid "Unrooted cutting"
-msgstr ""
+msgstr "뿌리없는 절단"
 
 #: bauble/plugins/garden/pocket_server.glade:186
 msgid "Update ghini.pocket database snapshot."
-msgstr ""
+msgstr "ghini.pocket 데이터베이스 스냅 샷을 업데이트합니다."
 
 #: bauble/connmgr.glade:239
 msgid "Use default locations"
-msgstr ""
+msgstr "기본 위치 사용"
 
 #: bauble/pictures.glade:298 bauble/notes.glade:304 bauble/bauble.glade:62
 msgid "User"
-msgstr ""
+msgstr "사용자"
 
 #: bauble/connmgr.glade:397
 msgid "User:"
-msgstr ""
+msgstr "사용자:"
 
 #: bauble/plugins/users/ui.glade:102 bauble/plugins/users/__init__.py:523
 #: bauble/plugins/users/__init__.py:737
 msgid "Users"
-msgstr ""
+msgstr "사용자"
 
 #: bauble/bauble.glade:458
 msgid "Value"
-msgstr ""
+msgstr "값"
 
 #: bauble/bauble.glade:84
 msgid "Values"
@@ -3203,26 +3256,26 @@ msgstr "값"
 
 #: bauble/plugins/garden/plant.py:328
 msgid "Vegetative Part"
-msgstr ""
+msgstr "식물 부분"
 
 #: bauble/plugins/garden/accession.py:447
 msgid "Vegetative spreading"
-msgstr ""
+msgstr "식물 확산"
 
 #: bauble/plugins/garden/acc_editor.glade:2657
 #: bauble/plugins/garden/accession.py:2708
 msgid "Verifications"
-msgstr ""
+msgstr "검증"
 
 #: bauble/plugins/garden/acc_editor.glade:3171
 msgid "Verifier"
-msgstr ""
+msgstr "검증 자"
 
 #: bauble/plugins/plants/species_editor.glade:901
 #: bauble/plugins/plants/species.py:188
 #: bauble/plugins/plants/species_editor.py:1091
 msgid "Vernacular names"
-msgstr ""
+msgstr "현지 이름"
 
 #: bauble/bauble.glade:510
 msgid "Version"
@@ -3475,389 +3528,392 @@ msgstr "-도구"
 
 #: bauble/plugins/garden/source.py:498
 msgid "_parse_lat_lon() -- incorrect format: %s"
-msgstr ""
+msgstr "_parse_lat_lon ()-잘못된 형식 : % s"
 
 #: bauble/plugins/garden/picture_importer.glade:369
 msgid "acc.nr."
-msgstr ""
+msgstr "억세션넘버"
 
 #: bauble/plugins/garden/acc_editor.glade:108
 msgid "accession code format"
-msgstr ""
+msgstr "억세션코드포맷"
 
 #: bauble/plugins/garden/picture_importer.glade:188
 msgid "accession format"
-msgstr ""
+msgstr "억세션포멧"
 
 #: bauble/plugins/imex/select_export.glade:122
 #: bauble/plugins/report/__init__.py:731
 msgid "accessions"
-msgstr ""
+msgstr "억세션"
 
 #: bauble/bauble.glade:192
 msgid "activate query builder"
-msgstr ""
+msgstr "활성쿼리빌더"
 
 #: bauble/plugins/imex/select_export.glade:209
 msgid "all referred to objects"
-msgstr ""
+msgstr "모든 참조 객체"
 
 #: bauble/plugins/imex/select_export.glade:226
 msgid "also objects referring to selection"
-msgstr ""
+msgstr "또한 선택을 참조하는 객체"
 
 #: bauble/plugins/plants/taxonomy_check.glade:422
 #: bauble/plugins/plants/taxonomy_check.glade:587
 msgid "back to previous screen"
-msgstr ""
+msgstr "이전 화면으로 돌아 가기"
 
 #: bauble/bauble.glade:152
 msgid "back to startup screen"
-msgstr ""
+msgstr "시작 화면으로 돌아 가기"
 
 #: bauble/plugins/garden/picture_importer.glade:384
 msgid "binomial"
-msgstr ""
+msgstr "이항식"
 
 #: bauble/plugins/plants/taxonomy_check.glade:186
 msgid "browse"
-msgstr ""
+msgstr "브라우져"
 
 #: bauble/plugins/garden/accession.py:1394
 msgid "by %(verifier)s"
-msgstr ""
+msgstr "% (verifier) ​​s 별"
 
 #: bauble/plugins/garden/plant.py:923
 msgid "cannot split a new plant"
-msgstr ""
+msgstr "새로운 식물을 나눌 수 없다"
 
 #: bauble/plugins/plants/stored_queries.glade:450
 msgid "click on query button and edit the associated values"
-msgstr ""
+msgstr "쿼리 버튼을 클릭하고 관련 값을 편집합니다."
 
 #: bauble/plugins/plants/species_editor.py:192
 msgid ""
 "closest match is a synonym of something at infraspecific rank, which I "
 "cannot handle."
-msgstr ""
+msgstr "가장 가까운 일치는 특정 하위 순위에있는 어떤 것의 동의어입니다.
+"처리 할 수 ​​없습니다."
 
 #: bauble/plugins/garden/propagation.py:300
 msgid "cm"
-msgstr ""
+msgstr "cm"
 
 #: bauble/plugins/report/flat_export.glade:359
 msgid "collection"
-msgstr ""
+msgstr "수집"
 
 #: bauble/plugins/plants/taxonomy_check.glade:141
 msgid "copy"
-msgstr ""
+msgstr "복사"
 
 #: bauble/plugins/plants/taxonomy_check.glade:117
 #: bauble/plugins/plants/taxonomy_check.glade:128
 msgid "copy result selection to clipboard"
-msgstr ""
+msgstr "결과 선택을 클립 보드로 복사"
 
 #: bauble/view.py:433 bauble/view.py:915
 msgid "counting results"
-msgstr ""
+msgstr "결과계수"
 
 #: bauble/plugins/imex/select_export.glade:446
 msgid "create if not in database"
-msgstr ""
+msgstr "데이터베이스에없는 경우 생성"
 
 #: bauble/plugins/plants/species_model.py:70
 msgid "cv."
-msgstr ""
+msgstr "컬티버품종"
 
 #: bauble/connmgr.py:596
 msgid "database name"
-msgstr ""
+msgstr "데이터베이스이름"
 
 #: bauble/plugins/garden/picture_importer.glade:176
 msgid "default location"
-msgstr ""
+msgstr "기본위치"
 
 #: bauble/plugins/garden/picture_importer.glade:467
 msgid "details"
-msgstr ""
+msgstr "세부항목"
 
 #: bauble/plugins/garden/picture_importer.glade:356
 msgid "edit"
-msgstr ""
+msgstr "편집"
 
 #: bauble/plugins/plants/infoboxes.glade:1790
 msgid "edit stored queries"
-msgstr ""
+msgstr "저장된 쿼리 편집"
 
 #: bauble/plugins/garden/institution.glade:364
 msgid "enable automatic bug reporting"
-msgstr ""
+msgstr "자동 버그보고 활성화"
 
 #: bauble/plugins/plants/species_model.py:237
 msgid "endemic"
-msgstr ""
+msgstr "고유종"
 
 #: bauble/bauble.glade:235
 msgid "execute the query"
-msgstr ""
+msgstr "쿼리 실행"
 
 #: bauble/plugins/imex/select_export.glade:171
 msgid "export based on:"
-msgstr ""
+msgstr "내보내기 기준:"
 
 #: bauble/plugins/imex/select_export.glade:273
 msgid "export includes:"
-msgstr ""
+msgstr "내보내기에는 다음이 포함됩니다."
 
 #: bauble/plugins/imex/csv_.py:631
 msgid "exporting %(table)s table to %(filename)s"
-msgstr ""
+msgstr "% (table) s 테이블을 % (filename) s로 내보내기"
 
 #: bauble/plugins/plants/species_model.py:68
 msgid "f."
-msgstr ""
+msgstr "포르마"
 
 #: bauble/plugins/garden/picture_importer.glade:344
 msgid "file name"
-msgstr ""
+msgstr "파일이름"
 
 #: bauble/plugins/garden/plant_infobox.glade:6
 msgid "general_window"
-msgstr ""
+msgstr "일반_윈도우"
 
 #: bauble/plugins/plants/__init__.py:393
 msgid "history"
-msgstr ""
+msgstr "이력"
 
 #: bauble/ui.py:369
 msgid "history size must be greater than zero and less than the history size"
-msgstr ""
+msgstr "기록 크기는 0보다 크고 기록 크기보다 작아야합니다."
 
 #: bauble/plugins/garden/picture_importer.glade:456
 msgid "hit"
-msgstr ""
+msgstr "맞추다"
 
 #: bauble/ui.py:826
 msgid "http://ghini.github.io"
-msgstr ""
+msgstr "http://ghini.github.io"
 
 #: bauble/plugins/imex/csv_.py:345
 msgid "importing %(table)s table from %(filename)s"
-msgstr ""
+msgstr "% (filename) s에서 % (table) s 테이블을 가져 오는 중"
 
 #: bauble/plugins/garden/propagation.py:301
 msgid "in"
-msgstr ""
+msgstr "안으로"
 
 #: bauble/plugins/report/report.glade:451
 msgid "include private:"
-msgstr ""
+msgstr "비공개포함"
 
 #: bauble/plugins/plants/species_model.py:237
 msgid "indigenous"
-msgstr ""
+msgstr "원주민"
 
 #: bauble/plugins/imex/select_export.glade:560
 msgid "input:"
-msgstr ""
+msgstr "입력:"
 
 #: bauble/view.py:1356
 msgid "interrupted"
-msgstr ""
+msgstr "붕괴"
 
 #: bauble/plugins/plants/species_model.py:237
 msgid "introduced"
-msgstr ""
+msgstr "일시정지"
 
 #: bauble/plugins/report/report.glade:385
 msgid "is package template"
-msgstr ""
+msgstr "패키지 템플릿입니다."
 
 #: bauble/plugins/garden/acc_editor.glade:97
 msgid "item"
-msgstr ""
+msgstr "아이템"
 
 #: bauble/plugins/plants/stored_queries.glade:116
 msgid "label"
-msgstr ""
+msgstr "라벨"
 
 #: bauble/plugins/report/__init__.py:733
 msgid "locations"
-msgstr ""
+msgstr "위치"
 
 #: bauble/plugins/garden/propagation.py:299
 msgid "mm"
-msgstr ""
+msgstr "mm"
 
 #: bauble/plugins/garden/accession.py:2439
 msgid "model must have both latitude and longitude or neither"
-msgstr ""
+msgstr "모델에는 위도와 경도가 둘 다 있거나 둘 다 없어야합니다."
 
 #: bauble/plugins/tag/tag.glade:341
 msgid "name"
-msgstr ""
+msgstr "이름"
 
 #: bauble/plugins/plants/species_model.py:237
 msgid "native"
-msgstr ""
+msgstr "야생"
 
 #: bauble/connmgr.py:182
 msgid ""
 "new remote version %s available.\n"
 "continue, or exit to upgrade."
-msgstr ""
+msgstr "새 원격 버전 % s을 (를) 사용할 수 있습니다. \ n
+"계속하거나 업그레이드를 종료하십시오."
 
 #: bauble/plugins/plants/stored_queries.glade:529
 #: bauble/plugins/plants/taxonomy_check.glade:220
 #: bauble/plugins/plants/taxonomy_check.glade:482
 msgid "next"
-msgstr ""
+msgstr "다음"
 
 #: bauble/utils/__init__.py:288 bauble/utils/__init__.py:298
 msgid "no widget named \"%(widget_name)s\" in glade file"
-msgstr ""
+msgstr "glade 파일에 \ "% (widget_name) s \"라는 위젯이 없습니다."
 
 #: bauble/editor.py:1560
 msgid "no widget with name %s"
-msgstr ""
+msgstr "이름이 % s 인 위젯이 없습니다."
 
 #: bauble/connmgr.py:129
 msgid "not available when offline"
-msgstr ""
+msgstr "오프라인 상태에서는 사용할 수 없습니다."
 
 #: bauble/plugins/plants/species.py:416
 msgid "open the wikipedia page about this species"
-msgstr ""
+msgstr "이 종에 대한 위키 백과 페이지를 엽니 다."
 
 #: bauble/plugins/imex/select_export.glade:340
 msgid "output:"
-msgstr ""
+msgstr "출력"
 
 #: bauble/editor.py:2098 bauble/utils/__init__.py:176
 msgid "picture file %s not found."
-msgstr ""
+msgstr "그림 파일 % s을 (를) 찾을 수 없습니다."
 
 #: bauble/plugins/garden/picture_importer.glade:266
 msgid "picture location"
-msgstr ""
+msgstr "사진위치"
 
 #: bauble/plugins/imex/select_export.glade:140
 msgid "plants"
-msgstr ""
+msgstr "식물"
 
 #: bauble/plugins/report/__init__.py:730
 msgid "plants/clones"
-msgstr ""
+msgstr "식물/복제"
 
 #: bauble/plugins/garden/location.py:297
 msgid "please confirm merging %(1)s into %(2)s"
-msgstr ""
+msgstr "% (1) s이 (가) % (2) s에 병합되는지 확인하십시오."
 
 #: bauble/plugins/garden/pocket_server.glade:143
 msgid "pocket/desktop xmlrpc server"
-msgstr ""
+msgstr "포켓 / 데스크탑 xmlrpc 서버"
 
 #: bauble/plugins/plants/__init__.py:394
 msgid "preferences"
-msgstr ""
+msgstr "우선권"
 
 #: bauble/plugins/plants/stored_queries.glade:496
 #: bauble/plugins/plants/taxonomy_check.glade:445
 #: bauble/plugins/plants/taxonomy_check.glade:610
 msgid "prev"
-msgstr ""
+msgstr "이전"
 
 #: bauble/bauble.glade:172
 msgid "previous view"
-msgstr ""
+msgstr "이전화면"
 
 #: bauble/plugins/imex/select_export.glade:251
 msgid "private objects"
-msgstr ""
+msgstr "비공개목록"
 
 #: bauble/plugins/plants/stored_queries.glade:410
 msgid "query"
-msgstr ""
+msgstr "쿼리"
 
 #: bauble/plugins/plants/species_editor.py:256
 msgid "querying the plant list"
-msgstr ""
+msgstr "식물리스트 쿼링작업중"
 
 #: bauble/plugins/garden/picture_importer.glade:164
 msgid "recurse"
-msgstr ""
+msgstr "재귀"
 
 #: bauble/plugins/garden/institution.glade:38
 msgid "save and close"
-msgstr ""
+msgstr "저장한 후 닫기"
 
 #: bauble/plugins/plants/taxonomy_check.glade:80
 msgid "select TNRS results"
-msgstr ""
+msgstr "TNRS 결과 선택"
 
 #: bauble/plugins/imex/select_export.glade:87
 #: bauble/plugins/report/flat_export.glade:345
 msgid "selection"
-msgstr ""
+msgstr "선택"
 
 #: bauble/view.py:923
 msgid "size of non homogeneous result: %s"
-msgstr ""
+msgstr "동일하지 않은 결과의 크기 : % s"
 
 #: bauble/plugins/report/__init__.py:732
 msgid "species"
-msgstr ""
+msgstr "종"
 
 #: bauble/plugins/plants/taxonomy_check.glade:163
 msgid "start TNRS lookup"
-msgstr ""
+msgstr "TNRS 조회 시작"
 
 #: bauble/plugins/plants/infoboxes.glade:1416
 msgid "stored queries"
-msgstr ""
+msgstr "저장된 쿼리"
 
 #: bauble/plugins/plants/species_model.py:69
 msgid "subf."
-msgstr ""
+msgstr "아과"
 
 #: bauble/plugins/plants/species_model.py:65
 msgid "subsp."
-msgstr ""
+msgstr "아종"
 
 #: bauble/plugins/plants/species_model.py:67
 msgid "subvar"
-msgstr ""
+msgstr "아변종"
 
 #: bauble/plugins/plants/species_model.py:180
 msgid "synonym of %s"
-msgstr ""
+msgstr "% s의 동의어"
 
 #: bauble/plugins/tag/__init__.py:572
 msgid "tagging %(1)s objects of %(2)s different types"
-msgstr ""
+msgstr "% (1) s % (2) s 다른 유형의 개체에 태그 지정"
 
 #: bauble/plugins/tag/__init__.py:566
 msgid "tagging %(1)s objects of type %(2)s"
-msgstr ""
+msgstr "% (2) s 유형의 % (1) s 개체에 태그 지정"
 
 #: bauble/plugins/tag/__init__.py:570
 msgid "tagging nothing"
-msgstr ""
+msgstr "아무것도 태그하지 않음"
 
 #: bauble/plugins/imex/select_export.glade:104
 msgid "taxa"
-msgstr ""
+msgstr "속"
 
 #: bauble/plugins/report/__init__.py:445
 msgid ""
 "template name ›%s‹ is already in use.\n"
 "do you mean to overwrite it?"
-msgstr ""
+msgstr "템플릿 이름›% s‹이 (가) 이미 사용 중입니다. \ n
+"덮어 쓰시겠습니까?"
 
 #: bauble/plugins/plants/__init__.py:393
 msgid "the history in this database"
-msgstr ""
+msgstr "이 데이터베이스의 역사"
 
 #: bauble/plugins/garden/picture_importer.glade:399
 msgid "thumbnail"
@@ -3934,11 +3990,11 @@ msgstr "화씨"
 
 #: bauble/plugins/report/flat_export.glade:287
 msgid "→"
-msgstr ""
+msgstr "→"
 
 #: bauble/plugins/garden/pocket_server.glade:124
 msgid "⤡"
-msgstr ""
+msgstr "⤡"
 
 #~ msgid "<b>Plugins</b>"
 #~ msgstr "<b>플러그인</b>"
