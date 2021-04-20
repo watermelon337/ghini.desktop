@@ -29,97 +29,100 @@ msgstr ""
 
 #: bauble/plugins/garden/prop_editor.glade:1347
 msgid "# Germinated"
-msgstr ""
+msgstr "# 번식된"
 
 #: bauble/plugins/garden/propagation.py:231
 msgid "# of seedlings"
-msgstr ""
+msgstr "# 파종"
 
 #: bauble/plugins/garden/prop_editor.glade:1156
 #: bauble/plugins/garden/propagation.py:215
 msgid "# of seeds"
-msgstr ""
+msgstr "# 종자"
 
 #: bauble/plugins/garden/prop_editor.glade:1398
 msgid "% Germinated"
-msgstr ""
+msgstr "# 번식된"
 
 #: bauble/plugins/garden/accession.py:691
 msgid "%(1)s plant groups in %(2)s location(s)"
-msgstr ""
+msgstr "% (2) s 위치에있는 % (1) s 식물 그룹"
 
 #: bauble/plugins/plants/species_model.py:476
 msgid "%(group)s Group"
-msgstr ""
+msgstr "% (group) s 그룹"
 
 #: bauble/plugins/garden/accession.py:181
 msgid ""
 "%(num_plants)s plants depend on this accession: <b>%(plant_codes)s</b>\n"
 "\n"
-msgstr ""
+msgstr "% (num_plants) s 식물은이 접근에 의존합니다 : <b> % (plant_codes) s </ b> \ n "
+"\n"
 
 #: bauble/plugins/garden/accession.py:2557
 msgid "%(quantity)s in %(location)s"
-msgstr ""
+msgstr "% (location) s의 % (quantity) s"
 
 #: bauble/btypes.py:85
 msgid "%(type_name)s(%(value)s) not in Enum.values: %(all_values)s"
-msgstr ""
+msgstr "% (type_name) s (% (value) s) not in Enum.values ​​: % (all_values) s"
 
 #: bauble/editor.py:2006
 msgid "%(user)s on %(date)s"
-msgstr ""
+msgstr "% (user) s, % (date) s"
 
 #: bauble/plugins/plants/species_editor.py:205
 msgid ""
 "%s is the accepted taxon for your data.\n"
 "Do you want to add it?"
-msgstr ""
+msgstr "% s은 데이터에 허용되는 분류군입니다. \ n
+"추가 하시겠습니까?"
 
 #: bauble/plugins/plants/species_editor.py:168
 msgid ""
 "%s is the closest match for your data.\n"
 "Do you want to accept it?"
-msgstr ""
+msgstr "% s는 데이터와 가장 근접하게 일치합니다. \ n "
+"수락 하시겠습니까?"
 
 #: bauble/pluginmgr.py:631
 msgid "%s.plugin is not an instance of pluginmgr.Plugin"
-msgstr ""
+msgstr "% s.plugin은 pluginmgr.Plugin의 인스턴스가 아닙니다."
 
 #: bauble/plugins/plants/species_model.py:462
 msgid "(%(group)s Group)"
-msgstr ""
+msgstr "(% (그룹) s 그룹)"
 
 #: bauble/view.py:867
 msgid "** Error: %s"
-msgstr ""
+msgstr "** 오류 : % s"
 
 #: bauble/__init__.py:222
 msgid "** Error: could not import gtk and/or gobject"
-msgstr ""
+msgstr "** 오류 : gtk 및 / 또는 gobject를 가져올 수 없습니다."
 
 #: bauble/__init__.py:287
 msgid "**Error: Ghini must be run in a windowed environment."
-msgstr ""
+msgstr "** 오류 : Ghini는 창 환경에서 실행되어야합니다."
 
 #: bauble/plugins/garden/picture_importer.glade:216
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: bauble/plugins/report/__init__.py:557
 msgid ":"
-msgstr ""
+msgstr ":"
 
 #: bauble/plugins/garden/source_detail_infobox.glade:64
 #: bauble/plugins/plants/infoboxes.glade:59
 #: bauble/plugins/plants/infoboxes.glade:341
 #: bauble/plugins/plants/infoboxes.glade:685
 msgid "<b># of Accessions:</b>"
-msgstr ""
+msgstr "<b> 액세스 수 : </ b>"
 
 #: bauble/plugins/plants/infoboxes.glade:89
 msgid "<b># of Genera:</b>"
-msgstr ""
+msgstr "<b>  수 : </ b>"
 
 #: bauble/plugins/garden/loc_infobox.glade:37
 msgid "<b># of Plants:</b>"
