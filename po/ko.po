@@ -277,59 +277,59 @@ msgstr "<b>수량</b>"
 
 #: bauble/plugins/report/xsl/gui.glade:60
 msgid "<b>Renderer</b>"
-msgstr ""
+msgstr "<b>랜더러</b>"
 
 #: bauble/plugins/plants/taxonomy_check.glade:644
 msgid "<b>Review log report</b>"
-msgstr ""
+msgstr "<b>로그보고서 보기</b>"
 
 #: bauble/plugins/garden/prop_editor.glade:944
 msgid "<b>Rooted plants</b>"
-msgstr ""
+msgstr "<b>식물발근률</b>"
 
 #: bauble/plugins/garden/prop_editor.glade:660
 msgid "<b>Rooting conditions</b>"
-msgstr ""
+msgstr "<b>발근상태</b>"
 
 #: bauble/plugins/report/report.glade:187
 msgid "<b>Settings</b>"
-msgstr ""
+msgstr "<b>설정</b>"
 
 #: bauble/plugins/report/xsl/gui.glade:104
 msgid "<b>Source type</b>"
-msgstr ""
+msgstr "<b>소스타입</b>"
 
 #: bauble/plugins/garden/acc_infobox.glade:514
 msgid "<b>Source's ID:</b>"
-msgstr ""
+msgstr "소스의 ID"
 
 #: bauble/plugins/garden/prop_editor.glade:1223
 msgid "<b>Sowing data</b>"
-msgstr ""
+msgstr "파종일"
 
 #: bauble/plugins/plants/infoboxes.glade:925
 msgid "<b>Species:</b>"
-msgstr ""
+msgstr "<b>종</b>"
 
 #: bauble/plugins/report/xsl/gui.glade:29
 msgid "<b>Stylesheet</b>"
-msgstr ""
+msgstr "<b>스타일 시트</b>"
 
 #: bauble/plugins/report/mako/gui.glade:38
 msgid "<b>Template</b>"
-msgstr ""
+msgstr "<b>틀</b>"
 
 #: bauble/plugins/plants/taxonomy_check.glade:523
 msgid "<b>Tick Off</b>"
-msgstr ""
+msgstr "<b>체크하다</b>"
 
 #: bauble/plugins/garden/acc_infobox.glade:244
 msgid "<b>Type of material:</b>"
-msgstr ""
+msgstr "<b>재료유형</b>"
 
 #: bauble/plugins/garden/source_detail_infobox.glade:72
 msgid "<b>Type:</b>"
-msgstr ""
+msgstr "<b>유형:</b>"
 
 #: bauble/plugins/report/xsl/gui.glade:122
 msgid "<b>Use author names</b>"
